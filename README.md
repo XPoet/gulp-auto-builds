@@ -8,9 +8,9 @@
 - 6、 gulp监视JS/CSS/HTML文件改变
 
 #### 使用
-- 1. $ npm install
-- 2. $ gulp css
-- 3. $ gulp js
-- 4. $ gulp img
-- 5. $ gulp html
-- 6. $ gulp browserSync
+- 1 `$ npm install`
+- 2 `$ gulp css`
+- 3 `$ gulp js`
+- 4 `$ gulp img`
+- 5 `$ gulp html`
+- 6 `$ gulp browserSync`
